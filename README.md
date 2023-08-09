@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I personalise almost every VS Code setting.  
+- ⚡ Fun fact: I personalize almost every VS Code setting.  
   
 
 <br/>  
