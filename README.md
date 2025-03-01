@@ -1,5 +1,5 @@
 ### **Hi there, I'm Chandan Kumar! 👋**  
-🚀 **Machine Learning & Deep Learning Enthusiast** | 🏆 **WiDS Datathon 2024 Global Rank 2** | 💡 **AI Innovator**  
+🚀 **Machine Learning & Deep Learning Enthusiast** | 🏆 **WiDS Datathon 2024 Global Rank 2** | 💡 **Generative AI**  
 
 ---  
 
