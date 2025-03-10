@@ -12,11 +12,12 @@
 ---  
 
 ### 🛠 **Tech Stack & Skills**  
-🔹 **Languages:** Python, C++, Java, SQL  
-🔹 **ML/DL:** PyTorch, TensorFlow, Hugging Face, Scikit-learn  
-🔹 **NLP & LLMs:** LangChain, RAG, Transformers, ChatGPT  
+🔹 **Languages:** Python, C/C++, Java, SQL, R  
+🔹 **ML/DL:** PyTorch, TensorFlow, Keras, Hugging Face, Scikit-learn, GAN, A/B Testing
+🔹 **NLP & LLMs:** spaCy, NLTK, LangChain, RAG, Transformers, ChatGPT  
 🔹 **Computer Vision:** OpenCV, Detectron2, YOLO, Mask R-CNN  
-🔹 **Backend & Infra:** FastAPI, Kubernetes, Docker, Azure, AWS  
+🔹 **Backend & Infra:** FastAPI, Kubernetes, Docker, Azure, AWS, Kafka, Redis, Apache Spark
+🔹 **MlOps:** KubeFlow, Tensorflow Serving, TorchServe, ChromaDB, Qdrant, TensorRT, Airflow
 
 ---  
 
