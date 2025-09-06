@@ -1,10 +1,10 @@
 ### **Hi there, I'm Chandan Kumar! 👋**  
-🚀 **Machine Learning & Deep Learning Enthusiast** | 🏆 **WiDS Datathon 2024 Global Rank 2** | 💡 **Generative AI**  
+🚀 **Machine Learning Engineer** | 🏆 **WiDS Datathon 2024 Global Rank 2** | 💡 **Generative AI**  
 
 ---  
 
 ### 🔥 **About Me**  
-- Passionate about **AI, Machine Learning, and Deep Learning**  
+- Passionate about **Gemerative AI, Machine Learning, and Deep Learning**  
 - Experienced in **LLMs, NLP, Computer Vision, and AI Deployment**  
 - Love solving **real-world challenges** and working in **fast-paced startups**  
 - Kaggle competitor | **WiDS Datathon 2024 (Global Rank 2 🏆)**  
