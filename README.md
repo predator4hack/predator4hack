@@ -29,6 +29,6 @@
 ---  
 
 ### 📫 **Let's Connect!**  
-🌐 [Portfolio](#) | 📝 [Blog](#) | 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-a8a50a198/) | 🏆 [Kaggle](https://www.kaggle.com/predator4hack) | 🔥 [GitHub](https://github.com/predator4hack)  
+🐦[Twitter](https://x.com/chandan_kr__) 💼 [LinkedIn](https://www.linkedin.com/in/chandan-kumar-a8a50a198/) | 🏆 [Kaggle](https://www.kaggle.com/predator4hack) | 🔥 [GitHub](https://github.com/predator4hack)  
 
 ---  
