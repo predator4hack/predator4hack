@@ -22,7 +22,7 @@
 ---  
 
 ### 📌 **Notable Projects**  
-🔹 **ESG Survey Automation** – Built an **AI-powered NLP system** at **Wells Fargo** using **LLMs, vector search, and LangChain** to automate document processing.  
+🔹 **AI-Shark** – Developed a GenAI-powered analyst platform to assist investors in evaluating the startups, providing summaries, growth potential analysis, and investor-ready recommendations  
 🔹 **WiDS Datathon 2024** – Developed an **ensemble ML model** to predict **metastatic cancer diagnosis periods**, securing **Global Rank 2** on Kaggle.  
 🔹 **AI-powered Image Annotation** – Designed a **vision-based annotation tool** using **YOLO, Detectron2, and Mask R-CNN**, saving $500K in manual labeling costs.  
 
