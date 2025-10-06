@@ -5,7 +5,7 @@
 
 ### 🔥 **About Me**  
 - Passionate about **Gemerative AI, Machine Learning, and Deep Learning**  
-- Experienced in **LLMs, NLP, Computer Vision, and AI Deployment**  
+- Experienced in **LLMs, NLP, Computer Vision, and Deploying ML models**  
 - Love solving **real-world challenges** and working in **fast-paced startups**  
 - Kaggle competitor | **WiDS Datathon 2024 (Global Rank 2 🏆)**  
 
