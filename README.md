@@ -1,4 +1,4 @@
-### **Hi there, I'm Chandan Kumar! 👋**  
+### **Hello, I'm Chandan Kumar! 👋**  
 🚀 **Machine Learning Engineer** | 🏆 **WiDS Datathon 2024 Global Rank 2** | 💡 **Generative AI**  
 
 ---  
